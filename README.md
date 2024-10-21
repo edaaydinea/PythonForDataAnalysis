@@ -1,43 +1,28 @@
-# 📚 [Book Title]
+# 📚 Python for Data Analysis - Data Wrangling with pandas, NumPy & Jupyter
 
-Welcome to the repository for **[Book Title]** by **[Author Name]**! This repository contains notes, summaries, and exercise solutions to help you understand and apply the concepts presented in the book.
+Welcome to the repository for **Python for Data Analysis - Data Wrangling with pandas, NumPy & Jupyter** by **Wes McKinney**! This repository contains notes, summaries, and exercise solutions to help you understand and apply the concepts presented in the book.
 
 ## 📖 Overview
 
-- **Author:** [Author Name]
-- **Published:** [Year]
-- **Description:** A brief overview of the book and its key themes or topics.
+- **Author:** Wes McKinney
+- **Published:** August 2022
+- **Description:** This book is a comprehensive guide to using Python for data analysis, focusing on data wrangling, cleaning, and manipulation using the popular pandas and NumPy libraries. It also covers essential tools like Jupyter notebooks for interactive coding and visualization.
 
 ## 📝 Notes
 
 This section contains organized notes from the book, summarizing key concepts and important points.
 
-### Chapter 1: [Chapter Title]
-- Key concepts from Chapter 1.
-- Important definitions or theories.
+### Chapter 1: Preliminaries
 
-### Chapter 2: [Chapter Title]
-- Key concepts from Chapter 2.
-- Important definitions or theories.
 
-*(Continue for additional chapters as needed)*
+### Chapter 2: Python Language Basics, 
+
 
 ## 💡 Exercise Solutions
 
 This section includes solutions to exercises from the book, organized by chapter.
 
-### Chapter 1 Exercises
-- **Exercise 1.1:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
-
-- **Exercise 1.2:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
-
-### Chapter 2 Exercises
-- **Exercise 2.1:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
-
-*(Continue for additional chapters as needed)*
+### Chapter 1 Exercise
 
 ## 🤝 Contributing
 
