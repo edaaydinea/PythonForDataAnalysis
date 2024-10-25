@@ -12,17 +12,42 @@ Welcome to the repository for **Python for Data Analysis - Data Wrangling with p
 
 This section contains organized notes from the book, summarizing key concepts and important points.
 
-### Chapter 1: Preliminaries
+### Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks
 
+- [Chapter 2 Notes](./ch02.ipynb)
 
-### Chapter 2: Python Language Basics, 
+### Chapter 3: Built-in Data Structures, Functions, and Files
 
+- [Chapter 3 Notes](./ch03.ipynb)
 
-## 💡 Exercise Solutions
+### Chapter 4: NumPy Basics: Arrays and Vectorized Computation
 
-This section includes solutions to exercises from the book, organized by chapter.
+- [Chapter 4 Notes](./ch04.ipynb)
 
-### Chapter 1 Exercise
+### Chapter 5: Getting Started with pandas
+
+- [Chapter 5 Notes](./ch05.ipynb)
+
+### Chapter 6: Data Loading, Storage, and File Formats
+
+### Chapter 7: Data Cleaning and Preparation
+
+### Chapter 8: Data Wrangling: Join, Combine, and Reshape
+
+### Chapter 9: Plotting and Visualization
+
+### Chapter 10: Data Aggregation and Group Operations
+
+### Chapter 11: Time Series
+
+### Chapter 12: Introduction to Modeling Libraries in Python
+
+### Chapter 13: Data Analysis Examples
+
+### A. Advanced NumPy
+
+### B. More on the IPython System
+
 
 ## 🤝 Contributing
 
