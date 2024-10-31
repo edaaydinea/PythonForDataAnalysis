@@ -30,11 +30,19 @@ This section contains organized notes from the book, summarizing key concepts an
 
 ### Chapter 6: Data Loading, Storage, and File Formats
 
+- [Chapter 6 Notes](./ch06.ipynb)
+
 ### Chapter 7: Data Cleaning and Preparation
+
+- [Chapter 7 Notes](./ch07.ipynb)
 
 ### Chapter 8: Data Wrangling: Join, Combine, and Reshape
 
+- [Chapter 8 Notes](./ch08.ipynb)
+
 ### Chapter 9: Plotting and Visualization
+
+- [Chapter 9 Notes](./ch09.ipynb)
 
 ### Chapter 10: Data Aggregation and Group Operations
 
