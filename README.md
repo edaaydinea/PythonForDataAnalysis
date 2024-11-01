@@ -46,6 +46,8 @@ This section contains organized notes from the book, summarizing key concepts an
 
 ### Chapter 10: Data Aggregation and Group Operations
 
+- [Chapter 10 Notes](./ch10.ipynb)
+
 ### Chapter 11: Time Series
 
 ### Chapter 12: Introduction to Modeling Libraries in Python
