@@ -50,6 +50,8 @@ This section contains organized notes from the book, summarizing key concepts an
 
 ### Chapter 11: Time Series
 
+- [Chapter 11 Notes](./ch11.ipynb)
+
 ### Chapter 12: Introduction to Modeling Libraries in Python
 
 ### Chapter 13: Data Analysis Examples
