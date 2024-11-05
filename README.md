@@ -54,11 +54,11 @@ This section contains organized notes from the book, summarizing key concepts an
 
 ### Chapter 12: Introduction to Modeling Libraries in Python
 
+- [Chapter 12 Notes](./ch12.ipynb)
+
 ### Chapter 13: Data Analysis Examples
 
-### A. Advanced NumPy
-
-### B. More on the IPython System
+- [Chapter 13 Notes](./ch13.ipynb)
 
 
 ## 🤝 Contributing
